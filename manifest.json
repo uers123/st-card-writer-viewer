@@ -1,0 +1,13 @@
+{
+  "display_name": "ST Card Writer Deep Role Engine",
+  "loading_order": 100,
+  "requires": [],
+  "optional": [],
+  "js": "index.js",
+  "css": "style.css",
+  "generate_interceptor": "stCardWriterDeepRoleInterceptor",
+  "author": "uers123",
+  "version": "0.2.1",
+  "homePage": "https://github.com/uers123/st-card-writer",
+  "minimum_client_version": "1.12.13"
+}
